@@ -1,0 +1,67 @@
+.header{
+
+	max-width: 750px;
+}
+
+.jumbotron{
+	height: 500px;
+	background-color: white;
+}
+.jumbotron h2{
+	font-size: 50px;
+}
+.jumbotron h2 span{
+color:#ffc200;
+}
+
+.banner{
+	height: 162px;
+	background-color: black;
+}
+.banner h1 {
+	text-align: center;
+	color:white;
+	font-size: 36px;
+	font-weight: 500px;
+	    margin-top:40px;
+    margin-bottom: 20px;
+
+}
+.banner p {
+	text-align: center;
+	color:white;
+	font-size: 14px;
+}
+.cards h2{
+	text-align: center;
+	margin: 40px;
+	line-height: 1.1;
+}
+.cards{
+	
+	background-color: #ffc200;
+}
+.cards .container{
+	max-width: 940px;
+}
+.cards{
+	padding: 70px;
+}
+.footer{
+	padding: 60px ;
+    background-color: #000;
+    color: #fff;
+}
+.footer h3 {
+	color:white;
+}
+.footer p{
+	color:white;
+	    font-size: 12px;
+    margin-bottom: 0;
+
+}
+.footer .container{
+	max-width: 750px;
+}
+   
